@@ -1,9 +1,9 @@
 {
 	"name" : "1819fs",
 	"version" : 1,
-	"creationdate" : -673031881,
-	"modificationdate" : -673023617,
-	"viewrect" : [ 82.0, 86.0, 247.0, 440.0 ],
+	"creationdate" : -673032002,
+	"modificationdate" : 3622100597,
+	"viewrect" : [ 31.0, 144.0, 247.0, 440.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -21,7 +21,27 @@
 				"local" : 1
 			}
 ,
+			"solutionFullScreen.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"interfaceXY.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"traitementSpatial.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"kinect.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"interfaceXY_js.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -33,14 +53,29 @@
 				"kind" : "imagefile",
 				"local" : 1
 			}
+,
+			"lune_fond2.jpeg" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"lune-rochers5.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"videoBrutePJPEG.mov" : 			{
+				"kind" : "moviefile",
+				"local" : 1
+			}
+
+		}
+,
+		"code" : 		{
 
 		}
 ,
 		"externals" : 		{
-
-		}
-,
-		"other" : 		{
 
 		}
 
