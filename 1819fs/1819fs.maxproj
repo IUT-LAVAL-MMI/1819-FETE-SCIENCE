@@ -1,9 +1,9 @@
 {
 	"name" : "1819fs",
 	"version" : 1,
-	"creationdate" : -673032002,
-	"modificationdate" : 3622100597,
-	"viewrect" : [ 31.0, 144.0, 247.0, 440.0 ],
+	"creationdate" : -673032123,
+	"modificationdate" : 3622137155,
+	"viewrect" : [ 118.0, 143.0, 247.0, 440.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -16,22 +16,12 @@
 				"toplevel" : 1
 			}
 ,
+			"superposition.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"porte_1.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"solutionFullScreen.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"interfaceXY.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"traitementSpatial.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -41,7 +31,22 @@
 				"local" : 1
 			}
 ,
+			"solutionFullScreen.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"traitementSpatial.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"interfaceXY_js.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"interfaceXY.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -54,7 +59,17 @@
 				"local" : 1
 			}
 ,
+			"lune_cosmonaute3_decoupe.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
 			"lune_fond2.jpeg" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"lune_cosmonaute3_alpha.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
