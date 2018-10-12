@@ -1,8 +1,8 @@
 {
 	"name" : "1819fs",
 	"version" : 1,
-	"creationdate" : -673032244,
-	"modificationdate" : 3622174529,
+	"creationdate" : -673032365,
+	"modificationdate" : 3622192478,
 	"viewrect" : [ 0.0, 154.0, 247.0, 440.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -41,12 +41,12 @@
 				"local" : 1
 			}
 ,
-			"kinect.maxpat" : 			{
+			"interfaceXY.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"interfaceXY.maxpat" : 			{
+			"interfaceXY_js_sca.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -92,6 +92,10 @@
 		}
 ,
 		"code" : 		{
+			"jsui_interfaceXY.js" : 			{
+				"kind" : "javascript",
+				"local" : 1
+			}
 
 		}
 ,
