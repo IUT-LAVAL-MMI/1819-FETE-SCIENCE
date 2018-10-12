@@ -1,9 +1,9 @@
 {
 	"name" : "1819fs",
 	"version" : 1,
-	"creationdate" : -673032123,
-	"modificationdate" : 3622137155,
-	"viewrect" : [ 118.0, 143.0, 247.0, 440.0 ],
+	"creationdate" : -673032244,
+	"modificationdate" : 3622174529,
+	"viewrect" : [ 0.0, 154.0, 247.0, 440.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -16,17 +16,7 @@
 				"toplevel" : 1
 			}
 ,
-			"superposition.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"porte_1.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"kinect.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -46,6 +36,16 @@
 				"local" : 1
 			}
 ,
+			"superposition.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"kinect.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"interfaceXY.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -56,6 +56,11 @@
 		"media" : 		{
 			"lune_sol.jpg" : 			{
 				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"zePhrase.wav" : 			{
+				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
